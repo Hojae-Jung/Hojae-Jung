@@ -1,8 +1,8 @@
 👋 Hi, I’m @Hojae-Jung
-👀 I’m interested in 
-🌱 I’m currently learning how to use GitHub and starting my jorney as a Technical Writer.
-💞️ I’m looking to collaborate on ...
-📫 How to reach me ...
+👀 In terms of programming, I'm intersted in Swift/Swift UI, HTML, CSS, and JS.
+🌱 I have just started my new journey as a Technical Writer in the Knowledge team.
+💞️ I'm passionate in design, photography and videogrpahy.
+📫 hojae.jung@safetyculture.io
 
 <!---
 Hojae-Jung/Hojae-Jung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
